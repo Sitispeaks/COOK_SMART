@@ -7,12 +7,12 @@ A Deep learning project.
 https://medium.com/analytics-vidhya/end-to-end-deep-learning-based-app-af67d4008550
 
 ## The complete design 
-![system Design](1_5xbx7A6bdcU4Z9RIEyXHbQ.png)
+![system Design](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_5xbx7A6bdcU4Z9RIEyXHbQ.jpeg)
 
 
 ## Work Elements 
-![Elements](1_FOg3ua3nsk4EgN_NNk6u2g.png)
+![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_FOg3ua3nsk4EgN_NNk6u2g.jpeg)
 
 
 ## App Flow 
-![Elements](1_pOxrvgTyzjeBEFDtFwA_3Q.png)
+![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_pOxrvgTyzjeBEFDtFwA_3Q.jpeg)
