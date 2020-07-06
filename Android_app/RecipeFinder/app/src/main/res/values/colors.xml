@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5353</color>
+    <color name="colorPrimaryDark">#ED3030</color>
+    <color name="colorAccent">#0ADAF4</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="fade_primary">#20E91E58</color>
+
+
+    <color name="fade_grey">#C6C6C6</color>
+    <color name="med_grey">#A6A6A6</color>
+    <color name="dark_grey">#535353</color>
+    <color name="dark">#302A2C</color>
+
+
+
+</resources>
