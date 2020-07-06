@@ -11,8 +11,8 @@ https://medium.com/analytics-vidhya/end-to-end-deep-learning-based-app-af67d4008
 
 
 ## Work Elements 
-![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_FOg3ua3nsk4EgN_NNk6u2g.jpeg)
+![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_FOg3ua3nsk4EgN_NNk6u2g.png)
 
 
 ## App Flow 
-![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_pOxrvgTyzjeBEFDtFwA_3Q.jpeg)
+![Elements](https://github.com/tapanKumarPatro/COOK_SMART/blob/master/images/1_pOxrvgTyzjeBEFDtFwA_3Q.gif)
